@@ -1,0 +1,6 @@
+streamlit
+PromptTemplate
+langchain
+ctransformers
+sentence-transformers
+faiss-cpu
